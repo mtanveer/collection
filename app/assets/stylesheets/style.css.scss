@@ -1,0 +1,11 @@
+$main_color: #F5F5DC;
+$text: #000;
+
+body{
+	background: $main_color;
+}
+p{
+	font-color: $text ;
+	font-weight: bold;
+	font-family: arial, helvetica, sans-serif;
+}
